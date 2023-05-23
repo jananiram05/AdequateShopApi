@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="4" total="5" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-13T06:38:16 EDT" name="Default suite" finished-at="2023-03-13T06:38:28 EDT" duration-ms="12448">
+    <groups>
+    </groups>
+    <test started-at="2023-03-13T06:38:16 EDT" name="Default test" finished-at="2023-03-13T06:38:28 EDT" duration-ms="12448">
+      <class name="com.tests.TeckarchTestApiTestscripE2E">
+        <test-method is-config="true" signature="setupTest()[pri:0, instance:com.tests.TeckarchTestApiTestscripE2E@6ae5aa72]" started-at="2023-03-13T06:38:16 EDT" name="setupTest" finished-at="2023-03-13T06:38:16 EDT" duration-ms="471" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupTest -->
+        <test-method signature="TCgetUserData()[pri:1, instance:com.tests.TeckarchTestApiTestscripE2E@6ae5aa72]" started-at="2023-03-13T06:38:16 EDT" name="TCgetUserData" finished-at="2023-03-13T06:38:28 EDT" duration-ms="11948" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TCgetUserData -->
+      </class> <!-- com.tests.TeckarchTestApiTestscripE2E -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
